@@ -39,7 +39,7 @@ const drawGame = () => {
             
             localStorage.setItem("mostRecentScore", snake.applesEaten);
             //location.assign("http://127.0.0.1:5500/deadscreen.html");
-            location.assign("https://snakejsgogi.netlify.app/deadscreen");
+            location.assign("https://clever-shaw-795c4e.netlify.app/deadscreen");
             // snake = new Snake();
         }
 
