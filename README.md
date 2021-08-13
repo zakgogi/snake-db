@@ -1,4 +1,6 @@
 # JavaScript Snake!
+ 
+ - Check out the original repo [here](https://github.com/zakgogi/snake-game) 
 
  ## Usage
  
